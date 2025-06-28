@@ -17,7 +17,7 @@ Advanced ML
 
 Generative AI / LLMs
 
-  * Transformers, decoding strategies, prompt engineering, and agentic AI pipelines
+  * Transformers, decoding strategies, and agentic AI pipelines
 
 Reinforcement Learning (RL)
 
